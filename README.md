@@ -7,3 +7,4 @@ Would you like help drafting the rest of the README sections—like installation
 
 Tech :
 
+pip install flask
