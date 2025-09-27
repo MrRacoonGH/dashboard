@@ -13,23 +13,26 @@
 </head>
 <body>
     <main>
-        <h1>CentralBoard Connect</h1>
+        <section>
 
-        <form action="/traitement-connexion" method="post">
-            <label for="username">Nom d'utilisateur :</label><br>
-            <input type="text" id="username" name="username" required><br><br>
+            <h1>CentralBoard Connect</h1>
 
-            <label for="password">Mot de passe :</label><br>
-            <input type="password" id="password" name="password" required><br><br>
+            <form action="/traitement-connexion" method="post">
+                <label for="username">Nom d'utilisateur :</label><br>
+                <input type="text" id="username" name="username" required><br><br>
 
-            <div>
-            <input type="submit" value="Se connecter">
-            <a href="/creer-compte">
-                <button type="button">Créer un compte</button>
-            </a>
-            </div>
-        </form>        
+                <label for="password">Mot de passe :</label><br>
+                <input type="password" id="password" name="password" required><br><br>
 
+                <div>
+                <input type="submit" value="Se connecter">
+                <a href="/creer-compte">
+                    <button type="button">Créer un compte</button>
+                </a>
+                </div>
+            </form>
+        </section>
     </main>
+    <script src="/Login/appLogin.js"></script>
 </body>
 </html>
