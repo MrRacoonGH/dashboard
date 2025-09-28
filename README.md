@@ -7,7 +7,6 @@
 ## 🚀 Purpose
 
 To create a **personal hub** for developer-gamers that enables them to:
-
 - Organize their time efficiently.
 - Track and manage their coding projects.
 - Stay connected with their community.
@@ -18,37 +17,31 @@ To create a **personal hub** for developer-gamers that enables them to:
 ## 🧩 Features
 
 ### 📅 Collaborative Agenda
-
 - Schedule coding sessions, gaming nights, or daily tasks.
 - Share your calendar with friends or teammates.
 - Custom notifications and reminders.
 
 ### 👤 User Account System
-
 - Secure authentication (JWT, OAuth).
 - Customizable profiles: avatar, bio, preferences.
 - Activity history and privacy settings.
 
 ### 🧑‍🤝‍🧑 Friends List
-
 - Add, remove, and manage contacts.
 - Online/offline status indicators.
 - Planned integration with Discord and Steam.
 
-### 🎮 Steam Library _(coming soon)_
-
+### 🎮 Steam Library *(coming soon)*
 - Connect to the Steam API.
 - Display owned games, playtime, achievements, and stats.
 - Sort by genre, popularity, or hours played.
 
 ### 🎵 Music Module
-
 - Built-in music player with custom playlists.
 - Planned integration with Spotify or YouTube Music.
 - Background music tailored for work or play sessions.
 
 ### 🗂️ GitHub Projects Overview
-
 - View public repositories from your GitHub account.
 - Stats: commits, issues, pull requests.
 - Quick access to README files, branches, and favorites.
@@ -57,17 +50,17 @@ To create a **personal hub** for developer-gamers that enables them to:
 
 ## 🛠️ Tech Stack
 
-| Technology          | Purpose                           |
-| ------------------- | --------------------------------- |
-| React               | Main framework                    |
-| Redux / Context API | State management                  |
-| React Router        | Page navigation                   |
-| Tailwind CSS / MUI  | UI design and components          |
-| Node.js / Express   | Backend / API                     |
-| Firebase / Supabase | Authentication / Database         |
-| GitHub API          | Project integration               |
-| Steam API           | Game integration _(coming soon)_  |
-| Spotify API         | Music integration _(coming soon)_ |
+| Technology         | Purpose                          |
+|--------------------|----------------------------------|
+| React              | Main framework                   |
+| Redux / Context API| State management                 |
+| React Router       | Page navigation                  |
+| Tailwind CSS / MUI | UI design and components         |
+| Node.js / Express  | Backend / API                    |
+| Firebase / Supabase| Authentication / Database        |
+| GitHub API         | Project integration              |
+| Steam API          | Game integration *(coming soon)* |
+| Spotify API        | Music integration *(coming soon)*|
 
 ---
 
@@ -80,7 +73,12 @@ To create a **personal hub** for developer-gamers that enables them to:
 
 ---
 
-## 📂 Project Structure _(example)_
+## 📂 Project Structure *(example)*
+
+
+
+
+
 
 ---
 
