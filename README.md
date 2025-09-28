@@ -1,16 +1,103 @@
-# React + Vite
+# 🧭 CentralBoard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**CentralBoard** is a web application built with **React**, designed as an all-in-one dashboard for developers who are also passionate gamers. It brings together essential tools for productivity, project management, social interaction, and entertainment—all within a sleek, modern, and scalable interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Purpose
 
-## React Compiler
+To create a **personal hub** for developer-gamers that enables them to:
+- Organize their time efficiently.
+- Track and manage their coding projects.
+- Stay connected with their community.
+- Access games and music from a single interface.
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧩 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 📅 Collaborative Agenda
+- Schedule coding sessions, gaming nights, or daily tasks.
+- Share your calendar with friends or teammates.
+- Custom notifications and reminders.
+
+### 👤 User Account System
+- Secure authentication (JWT, OAuth).
+- Customizable profiles: avatar, bio, preferences.
+- Activity history and privacy settings.
+
+### 🧑‍🤝‍🧑 Friends List
+- Add, remove, and manage contacts.
+- Online/offline status indicators.
+- Planned integration with Discord and Steam.
+
+### 🎮 Steam Library *(coming soon)*
+- Connect to the Steam API.
+- Display owned games, playtime, achievements, and stats.
+- Sort by genre, popularity, or hours played.
+
+### 🎵 Music Module
+- Built-in music player with custom playlists.
+- Planned integration with Spotify or YouTube Music.
+- Background music tailored for work or play sessions.
+
+### 🗂️ GitHub Projects Overview
+- View public repositories from your GitHub account.
+- Stats: commits, issues, pull requests.
+- Quick access to README files, branches, and favorites.
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology         | Purpose                          |
+|--------------------|----------------------------------|
+| React              | Main framework                   |
+| Redux / Context API| State management                 |
+| React Router       | Page navigation                  |
+| Tailwind CSS / MUI | UI design and components         |
+| Node.js / Express  | Backend / API                    |
+| Firebase / Supabase| Authentication / Database        |
+| GitHub API         | Project integration              |
+| Steam API          | Game integration *(coming soon)* |
+| Spotify API        | Music integration *(coming soon)*|
+
+---
+
+## 📈 Future Enhancements
+
+- Instant messaging system.
+- Kanban-style task board.
+- Dynamic light/dark mode.
+- Mobile version using React Native.
+
+---
+
+## 📂 Project Structure *(example)*
+
+
+
+
+
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request to suggest improvements, fix bugs, or add new features.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. You’re free to use, modify, and distribute it.
+
+---
+
+## 📬 Contact
+
+For questions or suggestions, reach out via GitHub or open an issue in the repository.
+
+---
+
+Ready to code and play? Welcome to **CentralBoard** 🎮💻
